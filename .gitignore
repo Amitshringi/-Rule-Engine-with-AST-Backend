@@ -1,0 +1,48 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+.env
+
+# Logs
+logs/
+*.log
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Build files
+dist/
+build/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Test coverage
+coverage/
+
+# Temporary files
+*.tmp
+*.swp
+
+# Specific for React
+public/*.map
+
+# Specific for Python
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+
+# Ignore compiled TypeScript files
+*.tsbuildinfo
